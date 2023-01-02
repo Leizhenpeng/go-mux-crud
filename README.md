@@ -1,18 +1,16 @@
 # mux-crud
-> 利用mus写一个简易的crud
+> 基于mux写一个有关武汉热干面的crud
 
 
 
 ## 有关mux
 
-mux已经停止维护，作者说了一句很猛的话
+mux已经停止维护，作者曾说了一句很猛的话 
 
-'与其遇到一个错误的维护者，不如不维护'
-
-respect！
+no maintainer is better than an adversarial maintainer ...
 
 
-OP: 但是我还是习惯用mux，所以写了一个简单的crud，希望能帮到有需要的人
+OP: 但是我还是习惯用mux，写了一个简单的crud，缅怀一下
 
 
 ## 相关链接
